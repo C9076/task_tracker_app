@@ -1,0 +1,6 @@
+# Submit only lib/, test/ and screenshots/
+/*
+!/.gitignore
+!/lib/
+!/test/
+!/screenshots/
